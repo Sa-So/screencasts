@@ -1,5 +1,5 @@
 # I Learnt
 - prototype declaration in C++
 # I Revised
-- Recursion , DP
-- Custom Comparators for sorting
+- Recursion , DP (C)
+- Custom Comparators for sorting (B)
